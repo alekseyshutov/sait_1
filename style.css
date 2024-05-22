@@ -1,0 +1,26 @@
+body{
+	background-image: url(star.png);
+}
+h1{
+ display: flex;
+ justify-content: center;
+ max-width: 550px;
+ margin-top: 250px;
+ margin-left: 495px;
+ font-size: 36px;
+ color: black;
+}
+
+
+nav{
+   display: flex;
+   justify-content: center;
+   padding: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    background-color: azure;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px black;
